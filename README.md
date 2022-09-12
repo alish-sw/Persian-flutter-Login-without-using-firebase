@@ -8,5 +8,5 @@ Follow these steps
 5) flutter run
 
 
-for use the login api run a iis server and put loginserver files in your site directory.
+for use the login api run a iis server and put loginservice files in your site directory.
 edit auth.dart in provider folder and put your iis server ip in it.
